@@ -4,7 +4,7 @@
 <a href="https://twitter.com/KiemTranDev">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/kiem-tran-012808228/">
+<a href="https://https://www.linkedin.com/in/tuy%E1%BA%BFn-ph%E1%BA%A1m-b88667254/">
   <img align="left" alt="Pawan's Linkdein" width="22px" src="https://www.svgrepo.com/show/138936/linkedin.svg" />
 </a>
 <a href="https://github.com/VanKiem-Tran">
