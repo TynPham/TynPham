@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/kait1104/">
   <img align="left" alt="Pawan's Facebook" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />
 </a>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <br/>
 <br/>
