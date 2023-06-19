@@ -26,8 +26,9 @@
 
 ##### Languages I have used
 
-![JavaScript](https://img.shields.io/badge/-javascript-000000?style=flat&logo=JavaScript)
-![html5](https://img.shields.io/badge/-html5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-Javascript-000000?style=flat&logo=JavaScript)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=TypeScript)
+![html5](https://img.shields.io/badge/-Html5-000000?style=flat&logo=html5)
 ![css3](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
