@@ -32,16 +32,14 @@
 ![css3](https://img.shields.io/badge/-css3-000000?style=flat&logo=css3)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-
-
-#### Frameworks I have used
-
+<br/>
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React)
 ![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux)
 ![Nodejs](https://img.shields.io/badge/-node.js-000000?style=flat&logo=node.js)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Next](https://img.shields.io/badge/-Next-000000?style=flat&logo=Next.js)
 ![Antd](https://img.shields.io/badge/-Antd-000000?style=flat&logo=Antd)
+
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TynPham&hide_langs_below=1&layout=compact&theme=dark">
